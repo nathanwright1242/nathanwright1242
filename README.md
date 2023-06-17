@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan Wright</h1>
-<h3 align="center">Highly skilled and motivated senior full stack software engineer with 7+ years of professional experience developing web applications and services.</h3>
+<h3 align="center">Highly skilled and motivated senior full stack software engineer with 8+ years of professional experience developing web applications and services.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanwright1242&label=Profile%20views&color=0e75b6&style=flat" alt="nathanwright1242" /> </p>
 
